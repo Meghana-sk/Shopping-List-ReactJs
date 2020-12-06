@@ -1,2 +1,2 @@
-# Shopping-List-ReactJs
+# Emoji-Interpreter
 Created with CodeSandbox
