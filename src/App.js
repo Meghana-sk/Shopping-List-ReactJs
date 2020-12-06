@@ -25,7 +25,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Shopping list</h1>
-      <ul>
+      <ul style={{ listStyleType: "none" }}>
         {/* <li>{shoppingList[0]}</li>
         <li>{shoppingList[1]}</li>
         <li>{shoppingList[2]}</li>
